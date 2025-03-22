@@ -1,2 +1,14 @@
-# sentinel
-Sentinel is a lightweight and efficient Discord bot framework that provides a solid foundation for developers to build powerful and customizable bots. With its modular design and easy integration, it streamlines the bot development process.
+<h1 align="center">✨ Sentinel</h1>
+<p align="center">
+  <strong>A lightweight and modular Discord bot framework.</strong>
+</p>
+
+<p align="center">
+  <i>Designed for efficiency, flexibility, and easy integration.</i>
+</p>
+
+<!--
+<p align="center">
+  🔗 <a href="https://github.com/your-repo">GitHub</a> • 📖 <a href="https://your-docs.com">Documentation</a> • 💬 <a href="https://discord.gg/yourserver">Community</a>
+</p>
+-->
